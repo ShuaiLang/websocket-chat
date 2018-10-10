@@ -1,0 +1,1 @@
+Used WebSocket to create a online chat room. Emit and broadcast messages to all socket connected to the server. Used Express as server.
